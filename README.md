@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
