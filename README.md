@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
 ## Binary Search
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
