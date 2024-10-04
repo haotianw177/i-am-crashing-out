@@ -9,6 +9,8 @@ class Solution(object):
         map_s_to_t = {}
         map_t_to_s = {}
 
+
+        # Zip is part of a loop that iterates over two strings (s and t) simultaneously. zip is a Python     built-in function that takes two or more iterables (like strings, lists, etc.) and "zips" them together.
         for char_s, char_t in zip(s, t):
             # Check if there is an existing mapping for char_s in map_s_to_t
             if char_s in map_s_to_t:
