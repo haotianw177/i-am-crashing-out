@@ -21,6 +21,7 @@ class Solution(object):
                 map_s_to_t[char_s] = char_t
 
             # Similarly check for mapping from char_t to char_s
+            # why do need reverse check? let's say s=ab, t=cc
             if char_t in map_t_to_s:
                 if map_t_to_s[char_t] != char_s:
                     return False
