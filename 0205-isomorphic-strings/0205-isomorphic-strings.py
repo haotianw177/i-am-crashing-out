@@ -28,4 +28,6 @@ class Solution(object):
             else:
                 map_t_to_s[char_t] = char_s
 
+            # Forward check (s -> t) ensures that each character in s consistently maps to one character in t. Reverse check (t -> s) ensures that no two characters from s map to the same character in t.
+
         return True
