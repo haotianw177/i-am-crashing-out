@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1894-merge-strings-alternately) |
 ## String
