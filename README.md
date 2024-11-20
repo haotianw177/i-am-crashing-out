@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1894-merge-strings-alternately) |
