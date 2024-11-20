@@ -9,6 +9,10 @@ class Solution(object):
         l, r = 0, n - 1
         s = list(s)
         vowels = list("aeiouAEIOU")
+
+        # Strings in Python cannot(immutable) be changed directly after they are created
+        # Since reversing vowels requires swapping characters (i.e., modifying specific positions in the string), the solution converts the string into a list where individual elements (characters) can be changed.
+
         # `l` is the left pointer to track the vowel character
         # `r` is the right pointer to track the vowel character
         while l < r:
