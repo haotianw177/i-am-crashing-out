@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
