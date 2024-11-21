@@ -23,7 +23,7 @@ class Solution(object):
 
         else:
             return self.searchBST(root.left, val)
-                
+        # self just mean the instance solution of Solution() blueprint
                         
 
         
