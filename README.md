@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0283-move-zeroes) |
+| [1319-unique-number-of-occurrences](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0383-ransom-note) |
+| [1319-unique-number-of-occurrences](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1319-unique-number-of-occurrences) |
 ## Linked List
 |  |
 | ------- |
