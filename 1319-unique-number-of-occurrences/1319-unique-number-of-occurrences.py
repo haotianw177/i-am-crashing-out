@@ -13,6 +13,7 @@ class Solution(object):
             else:
                 hashMap[i] = 1
         return len(hashMap.values()) == len(set(hashMap.values()))
+        # if total numer of elements account equal to unique counts, no duplicate
         
 
         
