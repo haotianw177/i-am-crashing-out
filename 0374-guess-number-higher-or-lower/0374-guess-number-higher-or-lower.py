@@ -11,8 +11,8 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
-        l = 0
-        r = n
+        l = 0 #lowerbound 
+        r = n #upperbound
 
         while l <= r:
             mid = (l + r) // 2  # Dynamically calculate midpoint
