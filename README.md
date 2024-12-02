@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0374-guess-number-higher-or-lower) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0783-search-in-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
