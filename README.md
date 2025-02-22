@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0412-fizz-buzz) |
 | [1894-merge-strings-alternately](https://github.com/haotianw177/leetCodeCloudSave/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0374-guess-number-higher-or-lower) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/haotianw177/leetCodeCloudSave/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
