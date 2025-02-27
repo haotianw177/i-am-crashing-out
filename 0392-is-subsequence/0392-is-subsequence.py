@@ -5,6 +5,7 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
+        # use 2 pointer
 
         i, j = 0, 0
 
